@@ -4,7 +4,7 @@
 ![Mobile Design](e-commerceUI-MobileScreenShot.png)
 
 ### Links
-![Live Preview]([https://66b0019a0e15ab0fbd459baf--charming-tulumba-5f0cbb.netlify.app](https://66b0019a0e15ab0fbd459baf--charming-tulumba-5f0cbb.netlify.app))
+![Live Preview](https://66b0019a0e15ab0fbd459baf--charming-tulumba-5f0cbb.netlify.app)
 
 ### Built with
 - Semantic HTML5 markup
