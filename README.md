@@ -1,12 +1,10 @@
 ### Screenshot
-![Desktop Design](![e-commerceUI-DesktopScreenshot](https://github.com/user-attachments/assets/026799e0-b6ac-4ce5-bd8e-1271c3555443)
-)
+![Desktop Design](e-commerceUI-DesktopScreenshot.png)
 
-![Mobile Design](![e-commerceUI-MobileScreenShot](https://github.com/user-attachments/assets/4d762768-1bc5-486e-9af7-30cd721b51de)
-)
+![Mobile Design](e-commerceUI-MobileScreenShot.png)
 
 ### Links
-![Live Preview](https://66affc0864f3fc1a83377624--aquamarine-puffpuff-218bd5.netlify.app)
+![Live Preview](https://66b0019a0e15ab0fbd459baf--charming-tulumba-5f0cbb.netlify.app)
 
 ### Built with
 - Semantic HTML5 markup
