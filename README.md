@@ -1,7 +1,9 @@
 ### Screenshot
-![Desktop Design](eCommerceHtml\e-commerceUI-DesktopScreenshot.png)
+![Desktop Design](![e-commerceUI-DesktopScreenshot](https://github.com/user-attachments/assets/026799e0-b6ac-4ce5-bd8e-1271c3555443)
+)
 
-![Mobile Design](eCommerceHtml\e-commerceUI-MobileScreenShot.png)
+![Mobile Design](![e-commerceUI-MobileScreenShot](https://github.com/user-attachments/assets/4d762768-1bc5-486e-9af7-30cd721b51de)
+)
 
 ### Links
 ![Live Preview](https://66affc0864f3fc1a83377624--aquamarine-puffpuff-218bd5.netlify.app)
